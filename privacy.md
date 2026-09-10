@@ -98,6 +98,14 @@ development and data may be reset or migrated.
 
 ## 8. Deleting your data
 
+Inside the game, `/character delete` removes one of your characters: its name
+is erased and its progress, equipment slots and rating are destroyed. Records of
+past player-versus-player fights are kept, because they are also the other
+player's record of that fight and the server leaderboards are built from them.
+
+To have **everything** removed, including those fight records and the combat
+narration text saved with them:
+
 Email **quarlesdev@gmail.com** from an address you can be reached at, including your
 Discord user ID, and we will delete all data associated with it within **30
 days**. Deletion is permanent: characters, gear, gold and ratings cannot be
